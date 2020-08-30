@@ -1,4 +1,5 @@
-# overlapping-digit-and-letter-mnist
+# Extended MNIST Competition 
+[Competition Link (hosted by dacon.io)](https://dacon.io/competitions/official/235626/overview/) 
 
 ### Notebook Results 
 
