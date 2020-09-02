@@ -11,3 +11,4 @@
 ### References 
 - [Don't use dropouts in CNNs](https://www.kdnuggets.com/2018/09/dropout-convolutional-networks.html) 
 - [Elastic Distortions](https://www.kaggle.com/babbler/mnist-data-augmentation-with-elastic-distortion)
+- [Inception (GoogLeNet) Review](https://kangbk0120.github.io/articles/2018-01/inception-googlenet-review)
