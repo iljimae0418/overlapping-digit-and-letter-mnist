@@ -12,3 +12,4 @@
 - [Elastic Distortions](https://www.kaggle.com/babbler/mnist-data-augmentation-with-elastic-distortion)
 - [Inception (GoogLeNet) Review](https://kangbk0120.github.io/articles/2018-01/inception-googlenet-review)
 - [PReLU activation](https://medium.com/@shoray.goel/prelu-activation-e294bb21fefa)
+- [Troubleshooting when installing opencv on paperspace](https://github.com/conda-forge/pygridgen-feedstock/issues/10) 
